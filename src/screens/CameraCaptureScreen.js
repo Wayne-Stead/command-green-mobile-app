@@ -1,0 +1,1 @@
+// Camera screen logic placeholder
